@@ -1,0 +1,4 @@
+# day02
+
+    swift build && ./.build/debug/day02 < input.txt
+
